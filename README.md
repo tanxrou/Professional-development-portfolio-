@@ -1,1 +1,1 @@
-# Professional-development-portfolio-
+Hi, my name is Tan Xin Rou, a 19 year old year 1 SECRH student from Penang.Previously, I have completed my foundation studies at UTM KL. Throughout my studies, I have learned the basics of html, css, javascript, jaya, and C++. While I am not fully proficient in these languages yet, I am still working hard to practice and improve my coding skills. My main goal for this year is to gain solid programming knowledge, hands-on experience, build reliable software projects, and grow more confident in computer science.
